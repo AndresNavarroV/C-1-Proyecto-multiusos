@@ -1,4 +1,4 @@
-# C-1-Proyecto-multiusos
+# C++1-Proyecto-multiusos
 Proyecto de C++ multifuncional que contiene un menú  que contiene múltiples usos
 Contiene los siguentes usos:
 
