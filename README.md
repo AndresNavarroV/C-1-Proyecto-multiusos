@@ -1,6 +1,6 @@
 # C++1-Proyecto Multiusos
-Proyecto de C++ multifuncional que contiene un menú  que contiene múltiples usos
-Contiene los siguentes usos:
+Proyecto de C++ multifuncional el cual es un menú  que contiene múltiples usos
+Tiene los siguentes usos:
 
 1-Estructuras de control:
 
